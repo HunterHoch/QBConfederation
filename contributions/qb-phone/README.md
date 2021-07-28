@@ -12,7 +12,7 @@ Advanced Phone for QB-Core Framework :iphone:
 
 
 ## Screenshots
-![Home](https://imgur.com/ceEIvEk.png)
+![Home](https://i.imgur.com/93CZld0.png)
 ![Bank](https://imgur.com/tArcik2.png)
 ![Messages](https://imgur.com/C9aIinK.png)
 ![Phone](https://imgur.com/ic2zySK.png)
