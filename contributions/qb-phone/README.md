@@ -22,7 +22,6 @@ Advanced Phone for QB-Core Framework :iphone:
 ![Email](https://i.imgur.com/Ai2ixMz.png)
 ![Advertisements](https://i.imgur.com/KOlvicw.png)
 ![Houses](https://i.imgur.com/B4aTGo0.png)
-![App Store](https://imgur.com/mpBOgfN.png)
 ![Lawyers](https://i.imgur.com/nWZKCQh.png)
 ![Racing](https://i.imgur.com/Yif8SYn.png)
 ![Crypto](https://i.imgur.com/9irWkTD.png)
