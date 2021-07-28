@@ -12,20 +12,20 @@ Advanced Phone for QB-Core Framework :iphone:
 
 
 ## Screenshots
-![Home](https://i.imgur.com/93CZld0.png)
-![Bank](https://imgur.com/tArcik2.png)
-![Messages](https://imgur.com/C9aIinK.png)
-![Phone](https://imgur.com/ic2zySK.png)
-![Settings](https://imgur.com/jqC5Y8C.png)
-![MEOS](https://imgur.com/VP7gQBf.png)
-![Vehicles](https://imgur.com/NUTcfwr.png)
-![Email](https://imgur.com/zTD33N1.png)
-![Advertisements](https://imgur.com/QtQxJLz.png)
-![Houses](https://imgur.com/n6ocF7b.png)
+![Home](https://i.imgur.com/glglNdH.png)
+![Bank](https://i.imgur.com/5m1STgM.png)
+![Messages](https://i.imgur.com/oYHfjKd.png)
+![Phone](https://i.imgur.com/qnpRzRj.png)
+![Settings](https://i.imgur.com/Z9cOcWp.png)
+![MEOS](https://i.imgur.com/BfES1CS.png)
+![Vehicles](https://i.imgur.com/HpSM1qt.png)
+![Email](https://i.imgur.com/Ai2ixMz.png)
+![Advertisements](https://i.imgur.com/KOlvicw.png)
+![Houses](https://i.imgur.com/B4aTGo0.png)
 ![App Store](https://imgur.com/mpBOgfN.png)
-![Lawyers](https://imgur.com/SzIRpsI.png)
-![Racing](https://imgur.com/cqj1JBP.png)
-![Crypto](https://imgur.com/Mvv6IZ4.png)
+![Lawyers](https://i.imgur.com/nWZKCQh.png)
+![Racing](https://i.imgur.com/Yif8SYn.png)
+![Crypto](https://i.imgur.com/9irWkTD.png)
 
 ## Features
 - Garages app to see your vehicle details
