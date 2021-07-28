@@ -1,0 +1,2 @@
+# QBConfederation
+ The QB Confederation
